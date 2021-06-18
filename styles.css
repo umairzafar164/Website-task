@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div{
+    background-color: rgb(43, 139, 139);
+}
+p{
+    color: brown;
+}
